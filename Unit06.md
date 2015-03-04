@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC402: Global Justice"
+course_description: "A detailed exploration of contemporary debates and controversies regarding global justice. Topics include: human rights theory, the moral significance of national and cultural boundaries, the currency of distributive justice, global inequality and poverty, environmental devastation, and violence against women and children."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Participation, ‘Rights,’ ‘Needs’ And Global Justice:
 Revisiting Civil/Political And Economic/Social/Cultural Rights Debate**
 <span id="6"></span> 
