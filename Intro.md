@@ -164,3 +164,4 @@ hours) on Wednesday night; etc.
 - [Unit 6](https://legacy.saylor.org/polsc402/Unit06/)
 - [Unit 7](https://legacy.saylor.org/polsc402/Unit07/)
 - [Unit 8](https://legacy.saylor.org/polsc402/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC402/POLSC402-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC402/POLSC402-FinalExam-Answers.html)
